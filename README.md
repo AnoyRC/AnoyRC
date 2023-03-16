@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [SolSpace](https://github.com/AnoyRC/spling-social)
 
-- 🌱 I’m currently learning **Web3.js**
+- 🌱 I’m currently learning **Solana and ethers.js**
 
 - 👨‍💻 All of my projects are available at [anoyrc-portfolio.netlify.app](anoyrc-portfolio.netlify.app)
 
-- 💬 Ask me about **react, solana and hackathons**
+- 💬 Currently participating  **Account Abstraction Hackathon**
 
 - 📫 How to reach me **anoyroyc3545@gmail.com**
 
