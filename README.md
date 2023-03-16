@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Solana and ethers.js**
 
-- 👨‍💻 All of my projects are available at [anoyrc-portfolio.netlify.app](anoyrc-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [anoyrc-portfolio.netlify.app](https://anoyrc-portfolio.netlify.app)
 
 - 💬 Currently participating  **Account Abstraction Hackathon**
 
 - 📫 How to reach me **anoyroyc3545@gmail.com**
 
-- 📄 Know about my experiences [https://s3.amazonaws.com/attachments.angel.co/8130205-4d6b061858c13eb1337bd1a5542c7d7d.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20230315%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230315T063402Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c5063b66401f8e5cef98b3b0fa402dcbbd3f7aa954d8919e692536627da3a221](https://s3.amazonaws.com/attachments.angel.co/8130205-4d6b061858c13eb1337bd1a5542c7d7d.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20230315%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230315T063402Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c5063b66401f8e5cef98b3b0fa402dcbbd3f7aa954d8919e692536627da3a221)
+- 📄 Know about my experiences [Resume Link](https://s3.amazonaws.com/attachments.angel.co/8130205-4d6b061858c13eb1337bd1a5542c7d7d.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20230315%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230315T063402Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c5063b66401f8e5cef98b3b0fa402dcbbd3f7aa954d8919e692536627da3a221)
 
 - ⚡ Fun fact **Give me the best bathroom singer title XDDD**
 
