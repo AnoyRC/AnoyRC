@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3.js**
 
-- 👨‍💻 All of my projects are available at [anoyrc-portfolio.netlify.app](anoyrc-portfolio.netlify.app)
+- 👨‍💻 Get to know about me from my [Portfolio](https://anoyrc-portfolio.netlify.app)
 
 - 💬 Ask me about **react, solana and hackathons**
 
