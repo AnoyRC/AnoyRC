@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anoy</h1>
 <h3 align="center">A passionate full stack developer and web3 enthusiast from India</h3>
 
-- 🔭 I’m currently working on [SolSpace](https://github.com/AnoyRC/spling-social)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anoyrc&label=Profile%20views&color=0e75b6&style=flat" alt="anoyrc" /> </p>
+
+- 🔭 I’m currently working on [Gelato - Account Abstraction](https://github.com/AnoyRC/Gelato-AccountAbstraction)
 
 - 🌱 I’m currently learning **Web3.js**
 
