@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Gelato - Account Abstraction](https://github.com/AnoyRC/Gelato-AccountAbstraction)
 
-- 🌱 I’m currently learning **Web3.js**
+- 🌱 I’m currently learning **@Solana/web3.js**
 
 - 👨‍💻 Get to know about me from my [Portfolio](https://anoyrc.vercel.app)
 
