@@ -42,7 +42,7 @@ Some of the famous wine cellars in Europe include:
 * Porto Wine Cellars, Portugal - the city of Porto in Portugal is known for its production of Port wine, a fortified wine that is aged in wooden barrels. The region is home to many historic wine cellars, including those belonging to Sandeman, Taylor's, and Graham's.
     
 
-# Advantage of Selling wine ad NFTs
+# Advantage of Selling wine as NFTs
 
 ![Why Do Wine Brands Adopt NFTs? | PixelPlex](https://pixelplex.io/wp-content/uploads/2022/08/nfts-in-the-wine-industry-meta.jpg align="left")
 
