@@ -11,7 +11,7 @@ tags: web-development, blockchain, nextjs, wallet, thirdweb
 
 # Introduction
 
-In this guide, we are going to learn how to make your custom connect wallet button. Although, thirdweb provides an awesome connect wallet button which is super user-friendly and comes with a lot of functionalities, any frontend developer would like their own connect wallet which suits the UI and provided a customized user experience for their website.
+In this guide, we are going to learn how to make your custom connect wallet button. Although, thirdweb provides an awesome connect wallet button which is super user-friendly and comes with a lot of functionalities, any frontend developer would like their own connect wallet which suits the UI and provides a customized user experience for their website.
 
 # What is thirdweb?
 
@@ -42,7 +42,7 @@ The website is live at: [https://custom-connect-wallet-delta.vercel.app/](https:
 
 ## What is Wagmi?
 
-Wagmi is a collection of React hooks containing everything you need to start working with Ethereum. Wagmi makes it easy to "Connect Wallet", display END and balance information, sign messages, interact with contracts and much more. thirdweb uses Wagmi to manage wallet connections and interact with the smart contract.
+Wagmi is a collection of React hooks containing everything you need to start working with Ethereum. Wagmi makes it easy to "Connect Wallet", display ENS and balance information, sign messages, interact with contracts and much more. thirdweb uses Wagmi to manage wallet connections and interact with the smart contract.
 
 ## `useMetamask`
 
@@ -200,7 +200,7 @@ export default function Home() {
       </div>
     </div>
   );
-} 
+}
 ```
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682938296017/ae894940-eae1-43c7-ab41-d173d5234bd0.png align="center")
@@ -237,7 +237,7 @@ export default function Home() {
     <Dialog />
     </div>
   );
-} 
+}
 ```
 
 Now, in `Dialog.js` file:
@@ -346,7 +346,7 @@ export default function Home() {
     {handleDialog && <Dialog dialogHandler={setHandleDialog} />}
     </div>
   );
-} 
+}
 ```
 
 In the `Dialog.js`, add the onClick function for the close button :
