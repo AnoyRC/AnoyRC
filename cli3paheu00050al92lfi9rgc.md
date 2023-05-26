@@ -129,7 +129,7 @@ When minting a token, a smart contract is written to define the characteristics 
 
 ### Generate Credentials to integrate with Unity
 
-We need the API key, Private Key and GameID to integrate our assets with Unity. Go back to the Collections tab, and click on settings. Open the API credentials on reveal the keys.
+We need the API key, Private Key and GameID to integrate our assets with Unity. Go back to the Collections tab, and click on settings. Open the API credentials to reveal the keys.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1685048174524/7a315a84-bcb2-4b7e-84c6-39d261c32b4d.png align="center")
 
@@ -305,7 +305,7 @@ public class Asset
     {
         AssetName = assetName;
         AssetUrl = assetUrl;
-        AssetStyle = assetColor;
+        AssetColor = assetColor;
     }
 }
 ```
@@ -496,7 +496,7 @@ public class Asset
     {
         AssetName = assetName;
         AssetUrl = assetUrl;
-        AssetStyle = assetColor;
+        AssetColor = assetColor;
     }
 }
 ```
