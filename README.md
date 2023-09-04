@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anoyroyc3545@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://app.enhancv.com/share/e8c53810/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1LY7sxTr7OnDOrpi6G726E0UNOxXjVFh5mz96oHtvU8c/edit?usp=sharing)
 
 - ⚡ Fun fact **Give me the best bathroom singer title XDDD**
 
