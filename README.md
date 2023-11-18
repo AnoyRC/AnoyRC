@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bankless Wallet](https://github.com/Muziris-Labs)
 
-- 🌱 I’m currently learning **@Solana/web3.js**
+- 🌱 I’m currently learning **ZK-Proofs**
 
 - 👨‍💻 Get to know about me from my [Portfolio](https://anoyrc.vercel.app)
 
