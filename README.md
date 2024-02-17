@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **ZK-Proofs**
 
-- 👨‍💻 Get to know about me from my [Portfolio](https://anoyrc.vercel.app)
+- 👨‍💻 Get to know about me from my [Bento](https://bento.me/anoy)
 
 - 💬 Ask me about **react, solana and hackathons**
 
 - 📫 How to reach me **anoyroyc3545@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1LY7sxTr7OnDOrpi6G726E0UNOxXjVFh5mz96oHtvU8c/edit?usp=sharing)
+- 📄 Know about my experiences [CV](https://www.anoy.online/)
 
 - ⚡ Fun fact **Give me the best bathroom singer title XDDD**
 
