@@ -9,13 +9,13 @@
 
 - 👨‍💻 Get to know about me from my [Bento](https://bento.me/anoy)
 
-- 💬 Ask me about **react, solana and hackathons**
+- 💬 Ask me about **ERC-4337 and hackathons**
 
 - 📫 How to reach me **anoyroyc3545@gmail.com**
 
 - 📄 Know about my experiences [CV](https://www.anoy.online/)
 
-- ⚡ Fun fact **Give me the best bathroom singer title XDDD**
+- ⚡ Fun fact **Give me the best bathroom singer title XDD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
